@@ -1,2 +1,2 @@
-# advanced-data-structrue
+# Advanced Data Structure
 Implemented some advanced data structures
