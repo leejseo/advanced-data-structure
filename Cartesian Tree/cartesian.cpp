@@ -59,7 +59,7 @@ namespace Cartesian{
     void inorder_traversal(Node *node){
         if (node == nullptr) return;
         inorder_traversal(node->lchild);
-        std::cout << node->value << '\n';
+        cout << node->value << '\n';
         inorder_traversal(node->rchild);
     }
 };
